@@ -1,0 +1,1 @@
+select local from sql
